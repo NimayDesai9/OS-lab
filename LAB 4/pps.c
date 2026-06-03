@@ -8,7 +8,7 @@ typedef struct {
 } Process;
 
 int main() {
-    printf("Name:Koushik\n" "USN:1WA24cs206\n" "PRG:Proportional share scheduling\n");
+    printf("Name:Nimay Anand Desai\n" "USN:1WA24CS189\n" "PRG:Proportional share scheduling\n");
     int n, total_tickets = 0;
     float total_T = 0.0;
 
