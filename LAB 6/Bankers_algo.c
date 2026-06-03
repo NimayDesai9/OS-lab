@@ -2,7 +2,7 @@
 
 int main() {
     int n, m, i, j, k;
-    printf("Name:Koushik USN:1BM24CS206\n");
+    printf("Name:Nimay Anand Desai USN:1WA24CS189\n");
     printf("---Bankers algorithm--- \n");
     printf("Enter number of processes: ");
     scanf("%d", &n);
