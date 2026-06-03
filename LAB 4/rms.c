@@ -17,7 +17,7 @@ int lcm(int a, int b) {
 }
 
 int main() {
-    printf("Name:Koushik\n" "USN:1WA24cs206\n" "PRG:Rate monotonic scheduling (RMS) Algorithm\n");
+    printf("Name:Nimay Anand Desai\n" "USN:1WA24CS189\n" "PRG:Rate monotonic scheduling (RMS) Algorithm\n");
     int n, i;
 
     printf("Enter the number of processes:");
